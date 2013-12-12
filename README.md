@@ -13,29 +13,36 @@ This program requires PHP5.3x+ & Imagick.
 
 
 ## QR Code data capacity[6]
-Numeric only 	Max. 7,089 characters
-Alphanumeric 	Max. 4,296 characters
-Binary (8 bits) 	Max. 2,953 bytes
-Kanji/Kana 	Max. 1,817 characters
+* Numeric only 	Max. 7,089 characters
+* Alphanumeric 	Max. 4,296 characters
+* Binary (8 bits) 	Max. 2,953 bytes
+* Kanji/Kana 	Max. 1,817 characters
 
 ## Error correction capacity
-    Level L 	7% of codewords can be restored.
-    Level M 	15% of codewords can be restored.
-    Level Q 	25% of codewords can be restored.
-    Level H 	30% of codewords can be restored.
+*  Level L 	7% of codewords can be restored.
+* Level M 	15% of codewords can be restored.
+*  Level Q 	25% of codewords can be restored.
+* Level H 	30% of codewords can be restored.
 
 ## Data String Examples
-    URL - "http://www.example.com"
-    For Phone Numbers - "TEL:###-###-####"
-    For SMS - "SMSTO:###-###-####:MESSAGE"  (note: messages are limited to 160 characters on SMS
-    Text - "your text here"
+* URL
+    http://www.example.com
+* For Phone Numbers
+    TEL:###-###-####
+* For SMS (note: messages are limited to 160 characters on SMS
+    SMSTO:###-###-####:MESSAGE
+* Text
+    your text here
 
 
 DoCoMo Types (Not always supported by Older and Non-DoCoMo phones
 -----------------------------------------------------------------
-    Email with subject and body - MATMSG:TO:drewjw81@example.com;SUB:subject;BODY:message;;
-    Bookmark - MEBKM:TITLE:title;URL:http://www.example.com;;
-    Contact information - MECARD:N:Smith,John;ADR:76 9th Avenue, 4th Floor, New York, NY 10011;TEL:+12125551212;EMAIL:jsmith@example.com;;
+* Email with subject and body
+    MATMSG:TO:drewjw81@example.com;SUB:subject;BODY:message;;
+* Bookmark
+    MEBKM:TITLE:title;URL:http://www.example.com;;
+* Contact information
+    MECARD:N:Smith,John;ADR:76 9th Avenue, 4th Floor, New York, NY 10011;TEL:+12125551212;EMAIL:jsmith@example.com;;
 
 ## Example of block replacement
 
