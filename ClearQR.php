@@ -10,7 +10,7 @@ namespace drewjw81;
   #
   #
   #  This program outputs a PNG FORMAT Imagick Image Object "QRcode model 2"
-  #  You cannot use a several functions of QRcode in this version.
+  #  You cannot use several functions of QRcode in this version.
   #  See README.txt .
   #
   #  This version supports QRcode model2 version 1-40.
@@ -40,7 +40,7 @@ namespace drewjw81;
   # 	Level Q 	25% of codewords can be restored.
   # 	Level H 	30% of codewords can be restored.
   #
-  # Data String Notes
+  # Data String Examples
   #   For Phone Numbers - "TEL:###-###-####"
   #	  For SMS - "SMSTO:###-###-####:MESSAGE"  (note: messages are limited to 160 characters on SMS
   #	  Text - "your text here"
