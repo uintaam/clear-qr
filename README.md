@@ -37,4 +37,8 @@ Email with subject and body - MATMSG:TO:drewjw81@example.com;SUB:subject;BODY:me
 Bookmark - MEBKM:TITLE:title;URL:http://www.example.com;;
 Contact information - MECARD:N:Smith,John;ADR:76 9th Avenue, 4th Floor, New York, NY 10011;TEL:+12125551212;EMAIL:jsmith@example.com;;
 
+## Example of block replacement
+
+![Example of Block Image](https://raw.github.com/drewjw81/clear-qr/master/qr.png)
+
 QR Code is registered trademarks of DENSO WAVE INCORPORATED in JAPAN and other countries.
