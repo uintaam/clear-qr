@@ -1,9 +1,9 @@
 {
-    "name": "drewjw81/ClearQR",
+    "name": "drewjw81/clear-qr",
     "type": "library",
     "description": "A PHP class to generate QR Codes using ImageMagick",
     "keywords": ["PHP", "qrcode"],
-    "homepage": "http://github.com/drewjw81/ClearQR",
+    "homepage": "http://github.com/drewjw81/clear-qr",
     "license": ["LGPL"],
     "authors": [
         {
