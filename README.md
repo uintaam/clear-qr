@@ -1,4 +1,4 @@
-# ClearQR for PHP5 & Imagick - v1.0 By: Andrew Winter
+# ClearQR for PHP5 & Imagick
 
 Based on QRcode image PHP scripts  version 0.50g (C)2000-2005, Y.Swetake
 
@@ -33,9 +33,9 @@ This program requires PHP5.3x+ & Imagick.
 
 DoCoMo Types (Not always supported by Older and Non-DoCoMo phones
 -----------------------------------------------------------------
-Email with subject and body - MATMSG:TO:drewjw81@example.com;SUB:subject;BODY:message;;
-Bookmark - MEBKM:TITLE:title;URL:http://www.example.com;;
-Contact information - MECARD:N:Smith,John;ADR:76 9th Avenue, 4th Floor, New York, NY 10011;TEL:+12125551212;EMAIL:jsmith@example.com;;
+    Email with subject and body - MATMSG:TO:drewjw81@example.com;SUB:subject;BODY:message;;
+    Bookmark - MEBKM:TITLE:title;URL:http://www.example.com;;
+    Contact information - MECARD:N:Smith,John;ADR:76 9th Avenue, 4th Floor, New York, NY 10011;TEL:+12125551212;EMAIL:jsmith@example.com;;
 
 ## Example of block replacement
 
