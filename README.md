@@ -13,10 +13,10 @@ This program requires PHP5.3x+ & Imagick.
 
 
 ## QR Code data capacity[6]
-    Numeric only 	Max. 7,089 characters
-    Alphanumeric 	Max. 4,296 characters
-    Binary (8 bits) 	Max. 2,953 bytes
-    Kanji/Kana 	Max. 1,817 characters
+Numeric only 	Max. 7,089 characters
+Alphanumeric 	Max. 4,296 characters
+Binary (8 bits) 	Max. 2,953 bytes
+Kanji/Kana 	Max. 1,817 characters
 
 ## Error correction capacity
     Level L 	7% of codewords can be restored.
