@@ -4,7 +4,7 @@ namespace drewjw81;
 
 /*
   #
-  # ClearQR for PHP5 & Imagick - v0.1 By: Andrew Winter
+  # ClearQR for PHP5 & Imagick - v1.0 By: Andrew Winter
   #
   # Based on QRcode image PHP scripts  version 0.50g (C)2000-2005, Y.Swetake
   #
