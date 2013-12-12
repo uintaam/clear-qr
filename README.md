@@ -26,23 +26,37 @@ This program requires PHP5.3x+ & Imagick.
 
 ## Data String Examples
 * URL
+
     http://www.example.com
+
 * For Phone Numbers
+
     TEL:###-###-####
+
 * For SMS (note: messages are limited to 160 characters on SMS
+
     SMSTO:###-###-####:MESSAGE
+
 * Text
+
     your text here
 
 
 DoCoMo Types (Not always supported by Older and Non-DoCoMo phones
 -----------------------------------------------------------------
 * Email with subject and body
+
     MATMSG:TO:drewjw81@example.com;SUB:subject;BODY:message;;
+
 * Bookmark
+
     MEBKM:TITLE:title;URL:http://www.example.com;;
+
 * Contact information
+
     MECARD:N:Smith,John;ADR:76 9th Avenue, 4th Floor, New York, NY 10011;TEL:+12125551212;EMAIL:jsmith@example.com;;
+
+
 
 ## Example of block replacement
 
