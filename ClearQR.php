@@ -137,7 +137,7 @@ class ClearQR {
 
         /*  --- determine encode mode */
 
-        if (preg_match('/[^0-9]/', dataString)) {
+        if (preg_match('/[^0-9]/', $dataString)) {
             if (preg_match('#[^0-9A-Z $*%+\-./:]#', $dataString)) {
 
                 /*  --- 8bit byte mode */
