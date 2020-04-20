@@ -1,3 +1,5 @@
+This is no longer being maintained. If you are using this I recomend you checkout something like https://github.com/chillerlan/php-qrcode
+
 # ClearQR for PHP5 & Imagick
 
 Based on QRcode image PHP scripts  version 0.50g (C)2000-2005, Y.Swetake
